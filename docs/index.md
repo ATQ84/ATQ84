@@ -1,5 +1,4 @@
 ---
-layout: post
 title: atfork 的笔记
 ---
 
