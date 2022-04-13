@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ¹¹½¨´¿IPv6×ÓÍøµÄOpenWrtµÄÒ»ÖÖµäĞÍÍø¿ÚÅäÖÃ·½Ê½
+title: æ„å»ºçº¯IPv6å­ç½‘çš„OpenWrtçš„ä¸€ç§å…¸å‹ç½‘å£é…ç½®æ–¹å¼
 ---
 
-#¹¹½¨´¿IPv6 ×ÓÍøµÄ OpenWrt  µÄÒ»ÖÖµäĞÍÍø¿ÚÅäÖÃ·½Ê½¡£
+#æ„å»ºçº¯IPv6 å­ç½‘çš„ OpenWrt  çš„ä¸€ç§å…¸å‹ç½‘å£é…ç½®æ–¹å¼ã€‚
 
 ##A typical network port configuration method for OpenWrt to build a pure IPv6 subnet.
 
@@ -24,7 +24,6 @@ title: ¹¹½¨´¿IPv6×ÓÍøµÄOpenWrtµÄÒ»ÖÖµäĞÍÍø¿ÚÅäÖÃ·½Ê½
 <hr>
 
 ![LAN1](media/pic/image006.gif)
-
 ![LAN2](media/pic/image008.gif)
 
 
